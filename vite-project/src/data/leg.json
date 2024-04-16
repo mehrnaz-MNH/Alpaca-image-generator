@@ -1,0 +1,30 @@
+[
+    {
+        "name": "bubble tea",
+        "url": "./../alpaca/leg/bubble-tea.png"
+    },
+    {
+        "name": "cookie",
+        "url": "./../alpaca/leg/cookie.png"
+    },
+    {
+        "name": "default",
+        "url": "./../alpaca/leg/default.png"
+    },
+    {
+        "name": "game console",
+        "url": "./../alpaca/leg/game-console.png"
+    },
+    {
+        "name": "tilt backward",
+        "url": "./../alpaca/leg/tilt-backward.png"
+    },
+    {
+        "name": "tilt forward",
+        "url": "./../alpaca/leg/tilt-forward.png"
+    },
+    {
+        "name": "short",
+        "url": "./../alpaca/hair/short.png"
+    }
+]

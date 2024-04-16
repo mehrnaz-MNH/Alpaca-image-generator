@@ -1,0 +1,14 @@
+[
+    {
+        "name": "default",
+        "url": "./../alpaca/ears/default.png"
+    },
+    {
+        "name": "tilt backward",
+        "url": "./../alpaca/ears/tilt-backward.png"
+    },
+    {
+        "name": "tilt forward",
+        "url": "./../alpaca/ears/tilt-forward.png"
+    }
+]

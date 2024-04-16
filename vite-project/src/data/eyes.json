@@ -1,0 +1,26 @@
+[
+    {
+        "name": "angry",
+        "url": "./../alpaca/eyes/angry.png"
+    },
+    {
+        "name": "default",
+        "url": "./../alpaca/eyes/default.png"
+    },
+    {
+        "name": "naughty",
+        "url": "./../alpaca/eyes/naughty.png"
+    },
+    {
+        "name": "panda",
+        "url": "./../alpaca/eyes/panda.png"
+    },
+    {
+        "name": "smart",
+        "url": "./../alpaca/eyes/smart.png"
+    },
+    {
+        "name": "star",
+        "url": "./../alpaca/eyes/star.png"
+    }
+]

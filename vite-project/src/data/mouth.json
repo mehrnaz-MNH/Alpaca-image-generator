@@ -1,0 +1,22 @@
+[
+    {
+        "name": "astonished",
+        "url": "./../alpaca/mouth/astonished.png"
+    },
+    {
+        "name": "default",
+        "url": "./../alpaca/mouth/default.png"
+    },
+    {
+        "name": "eating",
+        "url": "./../alpaca/mouth/eating.png"
+    },
+    {
+        "name": "laugh",
+        "url": "./../alpaca/mouth/laugh.png"
+    },
+    {
+        "name": "tongue",
+        "url": "./../alpaca/mouth/tongue.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "blue",
+        "url-1": "./../alpaca/backgrounds/blue50.png",
+        "url-2": "./../alpaca/backgrounds/blue60.png",
+        "url-3": "./../alpaca/backgrounds/blue70.png"
+    },
+    {
+        "name": "dark blue",
+        "url-1": "./../alpaca/backgrounds/darkblue30.png",
+        "url-2": "./../alpaca/backgrounds/darkblue50.png",
+        "url-3": "./../alpaca/backgrounds/darkblue70.png"
+    },
+    {
+        "name": "green",
+        "url-1": "./../alpaca/backgrounds/green50.png",
+        "url-2": "./../alpaca/backgrounds/green60.png",
+        "url-3": "./../alpaca/backgrounds/green70.png"
+    },
+    {
+        "name": "grey",
+        "url-1": "./../alpaca/backgrounds/grey40.png",
+        "url-2": "./../alpaca/backgrounds/grey70.png",
+        "url-3": "./../alpaca/backgrounds/grey80.png"
+    },
+    {
+        "name": "red",
+        "url-1": "./../alpaca/backgrounds/red50.png",
+        "url-2": "./../alpaca/backgrounds/red60.png",
+        "url-3": "./../alpaca/backgrounds/red70.png"
+    },
+    {
+        "name": "yellow",
+        "url-1": "./../alpaca/backgrounds/yellow50.png",
+        "url-2": "./../alpaca/backgrounds/yellow60.png",
+        "url-3": "./../alpaca/backgrounds/yellow70.png"
+    }
+]

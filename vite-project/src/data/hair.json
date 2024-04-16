@@ -1,0 +1,30 @@
+[
+    {
+        "name": "bang",
+        "url": "./../alpaca/hair/bang.png"
+    },
+    {
+        "name": "curls",
+        "url": "./../alpaca/hair/curls.png"
+    },
+    {
+        "name": "default",
+        "url": "./../alpaca/hair/default.png"
+    },
+    {
+        "name": "elegant",
+        "url": "./../alpaca/hair/elegant.png"
+    },
+    {
+        "name": "fancy",
+        "url": "./../alpaca/hair/fancy.png"
+    },
+    {
+        "name": "quiff",
+        "url": "./../alpaca/hair/quiff.png"
+    },
+    {
+        "name": "short",
+        "url": "./../alpaca/hair/short.png"
+    }
+]
